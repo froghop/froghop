@@ -1,5 +1,5 @@
 ### <span style="color:green">Hi there</span> 👋
-
+<span style="color:green">Hi there</span>
 Currently a junior studying Electrical Engineering & Computer Science at UC Berkeley and working in the Big Data in Radiology Lab at UCSF.
 
 Check out my [brief portfolio](https://froghop.github.io/) and some select projects I've made public on GitHub. 
