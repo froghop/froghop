@@ -1,10 +1,8 @@
-### <span style="color:green">Hi there</span> 👋
-
-<span style="color:green">colored text</span>
+### Hi there 👋
 
 Currently a junior studying Electrical Engineering & Computer Science at UC Berkeley and working in the Big Data in Radiology Lab at UCSF.
 
-Check out my [brief portfolio](https://froghop.github.io/) and some select projects I've made public on GitHub. 
+Check out this [brief portfolio](https://froghop.github.io/) and some select projects I've made public on GitHub. 
 
 <!--
 **froghop/froghop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
