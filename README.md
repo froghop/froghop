@@ -1,4 +1,4 @@
-### Hi there 👋
+### <span style="color:green">Hi there</span> 👋
 
 Currently a junior studying Electrical Engineering & Computer Science at UC Berkeley and working in the Big Data in Radiology Lab at UCSF.
 
