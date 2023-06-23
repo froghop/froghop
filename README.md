@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently a junior studying Electrical Engineering & Computer Science at UC Berkeley and working in the Big Data in Radiology (BDRAD) Lab at UCSF.
+Currently a senior studying Electrical Engineering & Computer Science at UC Berkeley and working in the Big Data in Radiology (BDRAD) Lab at UCSF.
 
 Check out this [brief portfolio](https://froghop.github.io/) and some select projects I've made public on GitHub. 
 
